@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Voice4Farmers Test Dialer</title>
+    <script src="https://sdk.twilio.com/js/client/releases/1.14.1/twilio.min.js"></script>
+</head>
+<body>
+    <h1>Voice4Farmers Test Dialer</h1>
+    <button id="call-button">Start Voice Call (Free)</button>
+    <button id="hangup-button" disabled>Hang Up</button>
+    <div id="status">Ready to call</div>
+
+    <script>
+        // You'll need to generate access token from your backend
+        const accessToken = 'YOUR_TWILIO_ACCESS_TOKEN';
+        
+        const device = new Twilio.Device();
+        device.setup(accessToken);
+
+        document.getElementById('call-button').onclick = function() {
+            const connection = device.connect();
+            document.getElementById('status').innerHTML = 'Calling...';
+            document.getElementById('call-button').disabled = true;
+            document.getElementById('hangup-button').disabled = false;
+        };
+
+        document.getElementById('hangup-button').onclick = function() {
+            device.disconnectAll();
+            document.getElementById('status').innerHTML = 'Call ended';
+            document.getElementById('call-button').disabled = false;
+            document.getElementById('hangup-button').disabled = true;
+        };
+    </script>
+</body>
+</html>

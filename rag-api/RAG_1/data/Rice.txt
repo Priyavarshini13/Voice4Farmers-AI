@@ -1,0 +1,300 @@
+=== CROP: Rice ===
+
+Rice - Blast (Disease)
+
+Common Farmer Questions:
+
+Why are there brown spots on leaves and necks?
+
+Why are some panicles cut off and grains empty?
+
+Symptoms:
+
+Brown, spindle‑shaped spots on leaves with gray center and dark brown margin
+
+Neck blast cuts off the panicle, making grains empty or half‑filled
+
+Spots can also appear on nodes and panicles
+
+Cause:
+Fungal infection caused by Pyricularia oryzae in humid, wet conditions.
+
+Solution:
+
+Use resistant varieties like Ajay, Arize Tej, or other blast‑tolerant types
+
+Spray Tricyclazole or Propiconazole 0.2–0.3% at onset of symptoms, repeat 2–3 times at 10–14‑day intervals
+
+Prevention:
+
+Avoid excess nitrogen, especially in disease‑prone areas
+
+Maintain proper spacing and drainage, avoid dense planting
+
+Use clean, disease‑free seed and avoid continuous rice in the same field
+
+Rice - Brown Spot (Disease)
+
+Common Farmer Questions:
+
+Why are there small brown spots on leaves?
+
+Why are leaves drying and yield low?
+
+Symptoms:
+
+Small round brown spots with light brown center and dark border on leaves
+
+Spots may join and leaves turn yellow and dry early
+
+Reduced tillering and unfilled or chaffy grains in severe cases
+
+Cause:
+Fungal disease caused by Bipolaris oryzae, common in mineral‑deficient and humid fields.
+
+Solution:
+
+Use healthy, disease‑free seedlings and balanced NPK with potassium and phosphorus
+
+Spray Mancozeb or Carbendazim 0.2–0.3% at early symptoms, repeat 1–2 times at 10‑day intervals
+
+Prevention:
+
+Avoid excess nitrogen, especially in continuous rice
+
+Maintain good drainage, avoid water stagnation
+
+Remove and burn infected crop residues after harvest
+
+Rice - Bacterial Leaf Blight (BLB) (Disease)
+
+Common Farmer Questions:
+
+Why are leaves drying like burnt edges?
+
+Why are leaves turning yellow and crop dying?
+
+Symptoms:
+
+Long, yellow‑green to white streaks along leaf edges, turning brown
+
+Entire leaves may dry up in heavy infection
+
+Stems may show brown stripes, plants look scorched
+
+Cause:
+Bacterial infection caused by Xanthomonas oryzae, entering through wounds and water.
+
+Solution:
+
+Use resistant varieties like Arize Dhani or BLB‑tolerant cultivars
+
+Spray copper‑based bactericides (e.g., copper oxychloride) at label dose at early infection
+
+Prevention:
+
+Avoid excess nitrogen and dense planting
+
+Avoid continuous flooding; keep field water at proper level
+
+Remove infected plants and avoid reuse of diseased seed
+
+Rice - Sheath Blight (Disease)
+
+Common Farmer Questions:
+
+Why are sheaths rotting near water level?
+
+Why are leaves drying and panicles weak?
+
+Symptoms:
+
+Oval, brown or gray lesions on leaf sheaths near the water line
+
+Lesions may spread to leaves and flag leaf, causing drying
+
+White, web‑like fungal growth seen in humid conditions
+
+Cause:
+Fungal disease caused by Rhizoctonia solani in dense, nitrogen‑rich rice.
+
+Solution:
+
+Use semi‑dwarf, erect‑type varieties with good canopy structure
+
+Spray Validamycin or Carbendazim at label dose during maximum tillering to early booting
+
+Prevention:
+
+Avoid excess nitrogen and very dense planting
+
+Keep field water and drainage in check, avoid heavy crowding
+
+Rotate rice with non‑host crops where possible
+
+Rice - Rice Tungro Virus (RTV) (Disease)
+
+Common Farmer Questions:
+
+Why are plants stunted and yellow?
+
+Why are panicles empty and yield very low?
+
+Symptoms:
+
+Plants short, leaves yellow‑orange or pale, with reduced tillers
+
+Panicles small or missing, unfilled grains
+
+Crop looks patchy in field
+
+Cause:
+Virus disease spread by green leafhopper (vector insect).
+
+Solution:
+
+Remove and destroy infected plants early
+
+Use tungro‑tolerant varieties where available
+
+Control green leafhopper with approved insecticides as per local dose
+
+Prevention:
+
+Avoid planting in known tungro‑endemic areas without vector control
+
+Use clean, virus‑free seedlings
+
+Rotate crop or avoid continuous rice where disease is severe
+
+Rice - Nitrogen Deficiency (Nutrient Deficiency)
+
+Common Farmer Questions:
+
+Why are leaves pale green or yellow?
+
+Why is crop thin and weak?
+
+Symptoms:
+
+Older leaves turn pale green to yellow, starting from tips
+
+Plants look thin, less tillers, short height
+
+Poor panicle size and low grain yield
+
+Cause:
+Low nitrogen in soil or poor fertilizer management.
+
+Solution:
+
+Top‑dress with urea 25–40 kg/ha split at tillering and panicle initiation, if soil test is low
+
+Combine with organic manure to improve soil health
+
+Prevention:
+
+Follow soil test‑based NPK recommendations
+
+Avoid delayed or very late nitrogen top‑dressing
+
+Include organic manure at transplanting
+
+Rice - Potassium Deficiency (Nutrient Deficiency)
+
+Common Farmer Questions:
+
+Why are leaf tips drying and brown?
+
+Why are plants weak and kernels shriveled?
+
+Symptoms:
+
+Leaf tips turn brown, drying upward like burn marks
+
+Older leaves show yellowing along margins
+
+Plants weak, lodging, small and shriveled grains
+
+Cause:
+Low potassium in soil, especially in sandy or heavily cropped soils.
+
+Solution:
+
+Apply muriate of potash (MOP) at 20–30 kg/ha split with basal or top‑dressing, as per local advisory
+
+Include FYM or compost to improve potassium retention
+
+Prevention:
+
+Use balanced NPK, avoid only nitrogen‑rich practice
+
+Avoid intensive cropping without manure or K replenishment
+
+Maintain proper drainage and avoid waterlogging
+
+Rice - Stem Borer (Pest)
+
+Common Farmer Questions:
+
+Why are some plants suddenly drying in patches?
+
+Why are panicles empty or white?
+
+Symptoms:
+
+Central shoot dries and dies, forming “deadheart” in early stage
+
+Mature plants show white, empty or half‑filled panicles (“white ear”)
+
+Holes in stem base and galleries inside stem
+
+Cause:
+Insect larvae boring into stems, cutting internal feeding channels.
+
+Solution:
+
+Spray monocrotophos 0.06–0.1% or carbaryl / quinalphos at recommended dose at borer appearance
+
+Use light or pheromone traps in fields where available
+
+Prevention:
+
+Avoid continuous rice; rotate with non‑host crops
+
+Remove and burn stubble and excess crop residue
+
+Avoid dense, overly nitrogen‑rich planting
+
+Rice - Brown Plant Hopper (Pest)
+
+Common Farmer Questions:
+
+Why are plants turning yellow and drying?
+
+Why are leaves brown and crop lodging?
+
+Symptoms:
+
+Leaves turn yellow, then brown, starting from tips and spreading
+
+Plants may dry in patches, “hopper burn”
+
+Hard, shiny black or brown insects seen at base of plants
+
+Cause:
+Sucking insect feeding on stems and leaves, often in heavy nitrogen and dense stands.
+
+Solution:
+
+Spray imidacloprid or carbaryl as per local recommendation at early hopper attack
+
+Avoid broad‑spectrum sprays that kill their natural enemies
+
+Prevention:
+
+Use balanced nitrogen, avoid excess top‑dressing
+
+Maintain proper spacing and water management
+
+Encourage frogs and spiders by reducing harsh chemicals

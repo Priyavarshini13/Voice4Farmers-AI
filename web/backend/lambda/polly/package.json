@@ -1,0 +1,9 @@
+{
+  "name": "polly-tts",
+  "version": "1.0.0",
+  "description": "Amazon Polly TTS for Voice4Farmers",
+  "main": "index.js",
+  "dependencies": {
+    "@aws-sdk/client-polly": "^3.0.0"
+  }
+}

@@ -1,0 +1,304 @@
+=== CROP: Groundnut ===
+
+Groundnut - Early Leaf Spot (Disease)
+
+Common Farmer Questions:
+
+Why are small brown spots forming on older leaves?
+
+Why are leaves drying from bottom upwards?
+
+Symptoms:
+
+Small brown or dark brown circular spots on older leaves
+
+Spots may join, leaves turn yellow and dry early
+
+Reduced leaf area, fewer pods and low yield
+
+Cause:
+Fungal disease caused by Cercospora arachidicola in humid, wet conditions.
+
+Solution:
+
+Spray Mancozeb or Copper‑based fungicides 0.2–0.3% at early spots, repeat 2–3 times at 10‑day intervals
+
+Use resistant or tolerant varieties where available
+
+Prevention:
+
+Avoid dense planting and excess nitrogen
+
+Keep field well‑drained, avoid waterlogging
+
+Rotate with non‑legume crops and remove infected leaves
+
+Groundnut - Late Leaf Spot (Disease)
+
+Common Farmer Questions:
+
+Why are leaves getting dark brown patches before drying?
+
+Why are leaves showing large dark lesions?
+
+Symptoms:
+
+Larger dark brown to black lesions on leaves, often with faint border
+
+Lesions may join, leaves turn yellow and fall early
+
+Reduced photosynthesis, fewer filled pods
+
+Cause:
+Fungal disease caused by Phaeoisariopsis personata in warm, humid weather.
+
+Solution:
+
+Use late‑leaf‑spot‑tolerant varieties if available
+
+Spray Mancozeb or broad‑spectrum fungicides 0.2–0.3% at first sign, repeat 2–3 times at 10‑day intervals
+
+Prevention:
+
+Maintain proper spacing and avoid overcrowding
+
+Avoid heavy, continuous rainy‑period irrigation
+
+Remove and burn crop residues after harvest
+
+Groundnut - Rust (Disease)
+
+Common Farmer Questions:
+
+Why are leaves getting small brown or orange pustules?
+
+Why are leaves drying quickly?
+
+Symptoms:
+
+Small raised brown or orange‑brown pustules on leaf upper and lower surface
+
+Pustules may break open, leaves turn yellow and dry early
+
+Plants look weak, yield reduced
+
+Cause:
+Fungal disease caused by Puccinia arachidis in humid, warm weather.
+
+Solution:
+
+Use rust‑tolerant groundnut varieties
+
+Spray triazole fungicides like Propiconazole or Carbendazim + Mancozeb 0.2–0.3% at early pustules
+
+Prevention:
+
+Avoid dense planting and excess nitrogen
+
+Keep field drainage and spacing good
+
+Rotate with non‑host crops and destroy infected crop debris
+
+Groundnut - Stem Rot / Sclerotium Rot (Disease)
+
+Common Farmer Questions:
+
+Why are plants lodging and stems rotting near soil?
+
+Why are stems turning brown and weak?
+
+Symptoms:
+
+Stem near soil turns brown, soft, may girdle and snap
+
+Plants lodge, branches may die from base upwards
+
+White fungal growth and black sclerotia seen on affected stem
+
+Cause:
+Fungal disease caused by Sclerotium rolfsii in humid, wet conditions.
+
+Solution:
+
+Remove and destroy infected plants early
+
+Avoid heavy, continuous irrigation; keep soil not too wet
+
+Use fungicides or bio‑agents like Trichoderma in severe cases as per local advisory
+
+Prevention:
+
+Use well‑drained soil and proper spacing
+
+Avoid dense, nitrogen‑rich, rank growth
+
+Rotate with non‑legume crops and plough in residues
+
+Groundnut - Aspergillus Flavus Infection – Aflatoxin (Disease)
+
+Common Farmer Questions:
+
+Why are kernels turning dark and musty‑smelling?
+
+Why are some grains discoloured or bad‑tasting?
+
+Symptoms:
+
+Kernels dark brown to black, may show musty or earthy smell
+
+Seeds may be shrivelled, with poor germination
+
+In severe cases, grains unsafe for human or animal feed
+
+Cause:
+Fungal infection by Aspergillus flavus under hot, dry, and moist‑storage conditions.
+
+Solution:
+
+Harvest at right maturity, avoid delaying harvest in hot, dry weather
+
+Dry pods quickly to 8–10% moisture before storage
+
+Store in cool, dry, well‑ventilated place; avoid damp godowns
+
+Prevention:
+
+Avoid mechanical damage during threshing and transport
+
+Inspect grain before storage and remove damaged or mouldy kernels
+
+Use clean, dry gunny bags or bins; avoid mixing with other crops
+
+Groundnut - Nutrient Deficiency – Nitrogen (Nutrient Deficiency)
+
+Common Farmer Questions:
+
+Why are older leaves turning pale yellow?
+
+Why is crop thin and growth slow?
+
+Symptoms:
+
+Older leaves pale green to yellow, starting from tip and margin
+
+Plants thin, with less branching and slow development
+
+Fewer flowers and pods, light‑coloured pods
+
+Cause:
+Low nitrogen in soil or poor nodulation and rhizobium activity.
+
+Solution:
+
+Inoculate seeds with rhizobium culture at sowing
+
+Apply 10–15 kg/ha nitrogen at early vegetative stage if soil test is low
+
+Include organic manure or compost to improve soil fertility
+
+Prevention:
+
+Follow soil test‑based fertilizer recommendation
+
+Avoid excess nitrogen that reduces nodule formation
+
+Use good‑quality seed and timely sowing
+
+Groundnut - Nutrient Deficiency – Calcium (Nutrient Deficiency)
+
+Common Farmer Questions:
+
+Why are pods empty or seeds stuck inside shell?
+
+Why are kernels shrivelled even though shells look normal?
+
+Symptoms:
+
+Pods with empty or poorly filled seeds, seeds stuck to shell
+
+Kernels shrivelled, low weight, poor germination
+
+Plant may look normal, but yield and quality low
+
+Cause:
+Low calcium in soil or poor pod‑filling due to uneven water.
+
+Solution:
+
+Apply gypsum or calcium sulphate 250–400 kg/ha at flowering to pod‑filling stage
+
+Keep soil moisture even; avoid dryness at pegging and pod‑filling
+
+Prevention:
+
+Avoid delaying irrigation when pods start developing
+
+Use balanced fertilizers with calcium on sandy, low‑Ca soils
+
+Test soil once and correct calcium status before sowing if needed
+
+Groundnut - White Grubs (Pest)
+
+Common Farmer Questions:
+
+Why are young plants dying suddenly in patches?
+
+Why are roots and stems chewed and rotting?
+
+Symptoms:
+
+Seedlings or early plants suddenly wilt and die
+
+Roots and underground stems gnawed, with white‑creamy grubs nearby
+
+Plants may fall over easily when pulled
+
+Cause:
+Soil‑dwelling white grubs feeding on roots and pegs before pod formation.
+
+Solution:
+
+Apply granular insecticides like Chlorpyrifos or approved alternatives at sowing or early stage as per local dose
+
+Use neem cake or other bio‑agents in organic systems where allowed
+
+Prevention:
+
+Plough field early to expose grubs for birds and sun
+
+Avoid continuous groundnut in same field
+
+Maintain good crop rotation with cereals or other non‑legumes
+
+Groundnut - Red Hairy Caterpillar (Pest)
+
+Common Farmer Questions:
+
+Why are leaves and stems chewed in patches?
+
+Why are plants skeletonized and weak?
+
+Symptoms:
+
+Leaves and stems shredded, eaten in patches
+
+Young plants may be completely defoliated
+
+Hairy reddish‑brown caterpillars seen on plants at night
+
+Cause:
+Caterpillar feeding on leaves and stems in early to mid‑crop stage.
+
+Solution:
+
+Spray Carbaryl or Quinalphos 0.05–0.08% at early damage, repeat 1–2 times at 7–10‑day intervals if heavy
+
+Hand‑pick and destroy caterpillars in small fields
+
+Prevention:
+
+Maintain field sanitation, destroy alternate weed hosts
+
+Plough field and expose pupae before sowing
+
+Avoid dense, rank growth that shelters pests

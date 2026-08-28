@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+twilio
+httpx
+deep-translator
+gtts
+python-dotenv
